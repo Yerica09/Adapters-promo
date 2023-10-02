@@ -1,0 +1,56 @@
+h1 {
+font-family: Impact, sans-serif;
+color: #CE5937;
+}
+
+h2 {
+  font-family: 'Noto Sans', sans-serif;
+   text-align: left;
+  color: darkblue;
+}
+ .adapters {
+      border: 3px solid red;
+      border-radius: 8px;
+    }  
+
+p {
+  font-family: "Noto Sans", sans-serif;
+  text-align: left;
+
+}
+h4 {
+  font-family: 'Noto Sans', sans-serif;
+   text-align: CENTER;
+  color: RED;
+}
+
+button.bonito {
+    background-color: #FF8C00;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    text-align: center;
+    
+}
+
+.botones-catalogo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+    .botones-catalogo > button {
+        margin-right: 10px;
+    }
+
+h3 {
+    font-family: 'Noto Sans', sans-serif;
+
+    color: darkorange;
+}
+
